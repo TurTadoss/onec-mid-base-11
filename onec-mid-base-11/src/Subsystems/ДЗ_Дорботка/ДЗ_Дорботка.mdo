@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a7f3df6e-5390-481c-9331-65007d9ba891">
+  <name>ДЗ_Дорботка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дорботка</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.ДЗ_КонтактныеЛица</content>
+  <content>Catalog.ДЗ_Должности</content>
+</mdclass:Subsystem>
